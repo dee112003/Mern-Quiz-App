@@ -1,7 +1,7 @@
 import { Router } from "express";
 const router = Router();
 
-/** import controllers */
+/** import controllers in this  */
 import * as controller from '../controllers/controller.js';
 
 /** Questions Routes API */
